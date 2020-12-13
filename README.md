@@ -1,2 +1,2 @@
-# scrolltrigger-sprite
+# vue-sprite
 Created with CodeSandbox
